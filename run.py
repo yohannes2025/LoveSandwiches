@@ -134,3 +134,13 @@ def main():
 
 print("Welcome to Love Sandwiches Data Automation")
 main()
+
+
+def get_stock_values(data):
+    """
+    Create a dictionary with worksheet headings as keys and 
+    the provided data as values.
+    """
+    headings = SHEET.worksheet("stock").row_values(1)  # Retrieve headings in a single line
+    stock_dict = {headings[i]: data[i] for i in range(len(headings))}  # Dictionary comprehension
+    return stock_dict
