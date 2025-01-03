@@ -102,9 +102,6 @@ Since this is a text-based game, the visual elements focus on ASCII characters.
 - Verified intuitive gameplay and clear turn prompts.
 - Ensured accurate score tracking and endgame conditions.
 
-### Lighthouse
-- Not applicable for a text-based game.
-
 ### Thank You Page
 - Displayed a thank-you message and final scores after the game ends.
 
