@@ -91,12 +91,6 @@ Since this is a text-based game, the visual elements focus on ASCII characters.
 
 ## Testing
 
-### W3C Validator
-- Not applicable for a Python-based text game.
-
-### JSHint
-- Not applicable for this project.
-
 ### Solved Bugs
 - Resolved issues with ship placement validation.
 - Fixed an infinite loop in random guess generation.
