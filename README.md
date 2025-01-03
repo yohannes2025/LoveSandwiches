@@ -1,4 +1,4 @@
-# Battleship Game - Design and Development Process
+# ULTIMATE Battleships
 
 ## Contents
 1. [User Experience (UX)](#user-experience-ux)
